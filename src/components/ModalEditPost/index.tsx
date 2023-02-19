@@ -95,7 +95,7 @@ const CreatePostForm = () => {
       </Form.Group>
       <div className="text-center">
         <Button type="submit" className="mt-5">
-          Create
+          Edit
         </Button>
       </div>
     </Form>
